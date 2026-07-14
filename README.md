@@ -40,7 +40,11 @@ MySQL
 - Email notification
 - Report generation
 - Backup system
-   ![Login Screen](image.png)
+   ## Login Interface
+![Login Screen](login.png)
+
+## Dashboard
+![Dashboard](dashboard.png.png)
 
 ## Author
 
